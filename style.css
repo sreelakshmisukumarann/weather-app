@@ -1,0 +1,27 @@
+
+
+.cr{
+    width: 30rem; 
+    margin-left:100px
+}
+.bs{
+    margin-left:100px;
+}
+
+@media (max-width: 576px){
+    .cr{
+        /* margin-left: 2px;
+        padding-right: 5px; */
+       margin-left: -1px;
+       padding: 2px;
+       height: 250px;
+       width: 390px;
+           
+    }
+    .cb{
+        width: 350px;
+    }
+    .bs{
+        margin-left: 55px;
+    }
+} 
